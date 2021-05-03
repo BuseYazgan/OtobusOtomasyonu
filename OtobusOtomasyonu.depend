@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1611073629 source:c:\users\pc\desktop\algoritma\projee\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	<math.h>
+
